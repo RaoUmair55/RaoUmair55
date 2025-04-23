@@ -7,7 +7,7 @@
 - 💬 Ask me about **React, Node.js, Express, .NET, and full-stack development**
 - 📫 How to reach me: **raoumair554@gmail.com**
 - 📄 Know about my experience via [My Resume](https://github.com/RaoUmair55/resume/blob/main/Rao_Umair_Ahmed_CV.pdf)
-
+- 🏅 Certified in **JavaScript** by Certiport / Pearson VUE (Oct 2024) — [verify here](https://verify.certiport.com)
 ---
 
 <h3 align="left">Connect with me:</h3>
