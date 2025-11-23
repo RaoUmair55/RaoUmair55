@@ -22,7 +22,7 @@ I work across **AI**, **Backend**, **Frontend**, and **Cybersecurity research**.
 
 ---
 
-## 🛠️ Tech Stack (Super Clean Badges)
+## 🛠️ Tech Stack
 
 ### **Frontend**
 <p>
