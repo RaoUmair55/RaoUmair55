@@ -1,36 +1,115 @@
-<h1 align="center">Hi 👋, I'm Rao Umair Ahmed</h1>
-<h3 align="center">A passionate full-stack developer and backend enthusiast from Pakistan</h3>
+<!-- Typing SVG Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=1E90FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Rao+Umair+Ahmed+👋;Full+Stack+Developer;AI+%26+Cybersecurity+Enthusiast;BSCS+Student+at+Air+University;Welcome+to+my+GitHub+Profile!">
+</p>
 
-- 🔭 I’m currently working on a **YouTube-like backend project using Node.js and Express**
-- 🌱 I’m learning advanced **JavaScript, REST APIs, and backend integrations**
-- 👨‍💻 All of my projects are available at [GitHub.com/RaoUmair55](https://github.com/RaoUmair55)
-- 💬 Ask me about **React, Node.js, Express, .NET, and full-stack development**
-- 📫 How to reach me: **raoumair554@gmail.com**
-- 📄 Know about my experience via [My Resume](https://github.com/RaoUmair55/resume/blob/main/Rao_Umair_Ahmed_CV.pdf)
-- 🏅 Certified in **JavaScript** by Certiport / Pearson VUE (Oct 2024) — [verify here](https://verify.certiport.com)
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rao_umair03" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rao_umair03" height="30" width="40" /></a>
-<a href="https://instagram.com/raoumair03" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raoumair03" height="30" width="40" /></a>
+<!-- Top Banner -->
+<p align="center">
+  <img src="https://github.com/arsentieva/arsentieva/raw/main/code.gif" width="60%">
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/></a>
+## 🚀 About Me
+I'm a passionate **Full Stack Developer** who loves building clean, scalable, and modern applications.  
+I work across **AI**, **Backend**, **Frontend**, and **Cybersecurity research**.
+
+- 🔭 Currently building: **Next.js Social Media Dashboard**
+- 🤖 Love integrating AI using **Hugging Face & Transformers**
+- 🛡 Cybersecurity side projects → Honeypots, Keyloggers, Nmap, Metasploit  
+- 🎓 Student of **BSCS @ Air University (2023–2027)**
+- 📫 Reach me → **raoumair554@gmail.com**
+
+---
+
+## 🛠️ Tech Stack (Super Clean Badges)
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,dotnet,mysql" />
+</p>
+
+### **AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Hugging Face Transformers  
+- OCR / Image-to-Text  
+- Sentiment Analysis  
+
+### **CyberSecurity**
+- 🔥 Nmap, Metasploit, SQLMap  
+- 🔥 Keylogger Development  
+- 🔥 Honeypot Research  
+- 🔥 Kali Linux, TCP/IP, Burp Suite  
+
+---
+
+## 📌 Featured Projects (Clean Layout)
+
+### 🔹 **CampusBuzz – University Social Platform**
+A platform where students can post, like, and interact with verified university profiles.
+
+### 🔹 **YouTube Clone (React)**
+Modern UI + category filter + video details page.
+
+### 🔹 **YouTube Backend (Node.js + MongoDB)**
+JWT Auth, videos, comments, likes, subscriptions.
+
+### 🔹 **AI-Powered Custom ChatGPT**
+Frontend chatbot using Deeseek/Hugging Face API.
+
+### 🔹 **Sentiment Analysis Dashboard**
+Uses `bert-base-multilingual-uncased-sentiment`.
+
+### 🔹 **Low-Interaction Keylogger Honeypot**
+Collects logs to analyze attacker behavior.
+
+---
+
+## ⚡ GitHub Analytics (Stylish + Centered)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaoUmair55&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaoUmair55&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoUmair55&layout=compact&theme=tokyonight&hide_border=true" height="170">
 </p>
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raoumair55&show_icons=true&locale=en&layout=compact" alt="raoumair55" /></p>
+## 🏆 GitHub Achievements (Trophies)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RaoUmair55&theme=tokyonight&no-frame=true&row=1&column=6">
+</p>
+
+---
+
+## 💻 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaoUmair55&theme=react-dark&hide_border=true">
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/RaoUmair55"><img src="https://skillicons.dev/icons?i=github" width="45px"></a>
+  <a href="mailto:raoumair554@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45px"></a>
+</p>
+
+---
+
+## ⚡ Fun Fact  
+I love building **AI + Security + Full Stack** systems and experimenting with smart defensive mechanisms.
+
+---
