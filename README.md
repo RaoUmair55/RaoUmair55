@@ -10,7 +10,7 @@
 
 ## 🛡️ About Me
 
-I'm a **Cybersecurity enthusiast** and **Full Stack Developer** studying BSCS at Air University, Rawalpindi. My primary focus is **defensive security** — SOC analysis, SIEM administration, and threat monitoring — backed by practical hands-on lab work.
+I'm a **Cybersecurity enthusiast** and **Full Stack Developer** studying BSCS at Air University,Islamabad. My primary focus is **defensive security** — SOC analysis, SIEM administration, and threat monitoring backed by practical hands-on lab work.
 
 - 🔵 **Blue Team Focus** → SOC Analysis, SIEM (Wazuh), Threat Detection, Log Correlation
 - 🍯 **Security Projects** → Honeypot Deployment, Keylogger (Assembly), Custom Detection Rules
